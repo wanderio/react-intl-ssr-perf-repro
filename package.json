@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node --inspect src/server"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "htm": "^2.2.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-intl": "^3.3.2"
+  }
+}
